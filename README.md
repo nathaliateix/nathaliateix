@@ -1,6 +1,6 @@
 ## Oie! Eu sou a Nathalia Teixeira 👋
 
-- 🔭 Eu atualmente trabalho como desnvolvedora web freelancer ...
+- Uma futura desenvolvedora ...
 
 <div>
   <a href="https://github.com/nathaliateix">
